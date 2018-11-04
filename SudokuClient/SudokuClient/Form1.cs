@@ -215,6 +215,11 @@ namespace SudokuClient
                         Gbutton[j, i].Text = "" + sudoku.Data[i, j];
                         Gbutton[j, i].ForeColor = Color.Red;
                     }
+                    else
+                    {
+                        Gbutton[j, i].Text = "";
+                        Gbutton[j, i].ForeColor = Color.Yellow;
+                    }
                 }
             }
         }

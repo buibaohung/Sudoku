@@ -18,3 +18,13 @@ C:\Users\Win10\Downloads\InterfaceClient\SudokuClient\SudokuClient\obj\Debug\Sud
 C:\Users\Win10\Downloads\InterfaceClient\SudokuClient\SudokuClient\obj\Debug\SudokuClient.csproj.CoreCompileInputs.cache
 C:\Users\Win10\Downloads\InterfaceClient\SudokuClient\SudokuClient\obj\Debug\SudokuClient.exe
 C:\Users\Win10\Downloads\InterfaceClient\SudokuClient\SudokuClient\obj\Debug\SudokuClient.pdb
+C:\Users\Win10\Downloads\LTMCB\SudokuClient\SudokuClient\bin\Debug\SudokuClient.exe.config
+C:\Users\Win10\Downloads\LTMCB\SudokuClient\SudokuClient\bin\Debug\SudokuClient.exe
+C:\Users\Win10\Downloads\LTMCB\SudokuClient\SudokuClient\bin\Debug\SudokuClient.pdb
+C:\Users\Win10\Downloads\LTMCB\SudokuClient\SudokuClient\obj\Debug\SudokuClient.csprojAssemblyReference.cache
+C:\Users\Win10\Downloads\LTMCB\SudokuClient\SudokuClient\obj\Debug\SudokuClient.Form1.resources
+C:\Users\Win10\Downloads\LTMCB\SudokuClient\SudokuClient\obj\Debug\SudokuClient.Properties.Resources.resources
+C:\Users\Win10\Downloads\LTMCB\SudokuClient\SudokuClient\obj\Debug\SudokuClient.csproj.GenerateResource.cache
+C:\Users\Win10\Downloads\LTMCB\SudokuClient\SudokuClient\obj\Debug\SudokuClient.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Downloads\LTMCB\SudokuClient\SudokuClient\obj\Debug\SudokuClient.exe
+C:\Users\Win10\Downloads\LTMCB\SudokuClient\SudokuClient\obj\Debug\SudokuClient.pdb

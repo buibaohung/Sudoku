@@ -17,6 +17,7 @@ namespace server
 {
     public partial class Form1 : Form
     {
+        public static int NoPlayer = 0;
         //public static int NoSudoku = 0;
         //public static Sudoku sudoku;
         //string DATA = "";
@@ -70,6 +71,8 @@ namespace server
         }
         private void Receive(object obj)
         {
+            NoPlayer++;
+            int ID = NoPlayer;
             Socket client = obj as Socket;
             Sudoku su = new Sudoku();
             su.Create_Sudoku();
@@ -89,27 +92,30 @@ namespace server
                     }
                     if (check == "suCreate")
                     {
-                        listBox1.Items.Add("Create request");
-
+                        listBox1.Items.Add("Player "+ ID +": Create request");
+                        su = new Sudoku();
+                        su.Create_Sudoku();
                         ConvertSudokuFromString(su.toSaveableString());
                         string SendMss = su.toSendableString();
                         Send(client, SendMss);
-                        listBox1.Items.Add("Completed");
+                        listBox1.Items.Add("Player "+ID+": Completed");
                     }
                     else
                     {
                         if (check[0]=='r')
                         {
                             su.Reset();
+                            listBox1.Items.Add("Player " + ID + ": Reset");
                         }
                         else
                         {
                             string cpStr = su.CheckInput(message);
-                            listBox1.Items.Add("Check request");
+                            listBox1.Items.Add("Player " + ID + ": Check request "+message.Substring(0,3)+" = "+cpStr[0]);
                             Send(client, cpStr);
                             if (cpStr[0] == 't' && su.IsCompleted())
                             {
                                 Send(client, "win00000000");
+                                listBox1.Items.Add("Player " + ID + ": Win");
                             }
                             listBox1.Items.Add("completed");
                         }

@@ -27,13 +27,13 @@ C:\Users\Win10\Downloads\Sudoku\server\obj\Debug\server.csproj.GenerateResource.
 C:\Users\Win10\Downloads\Sudoku\server\obj\Debug\server.csproj.CoreCompileInputs.cache
 C:\Users\Win10\Downloads\Sudoku\server\obj\Debug\server.exe
 C:\Users\Win10\Downloads\Sudoku\server\obj\Debug\server.pdb
-\\vmware-host\Shared Folders\Desktop\LTMCB\Sudoku\server\bin\Debug\server.exe.config
-\\vmware-host\Shared Folders\Desktop\LTMCB\Sudoku\server\bin\Debug\server.exe
-\\vmware-host\Shared Folders\Desktop\LTMCB\Sudoku\server\bin\Debug\server.pdb
-\\vmware-host\Shared Folders\Desktop\LTMCB\Sudoku\server\obj\Debug\server.csprojAssemblyReference.cache
-\\vmware-host\Shared Folders\Desktop\LTMCB\Sudoku\server\obj\Debug\server.Form1.resources
-\\vmware-host\Shared Folders\Desktop\LTMCB\Sudoku\server\obj\Debug\server.Properties.Resources.resources
-\\vmware-host\Shared Folders\Desktop\LTMCB\Sudoku\server\obj\Debug\server.csproj.GenerateResource.cache
-\\vmware-host\Shared Folders\Desktop\LTMCB\Sudoku\server\obj\Debug\server.csproj.CoreCompileInputs.cache
-\\vmware-host\Shared Folders\Desktop\LTMCB\Sudoku\server\obj\Debug\server.exe
-\\vmware-host\Shared Folders\Desktop\LTMCB\Sudoku\server\obj\Debug\server.pdb
+C:\Users\Win10\Downloads\LTMCB\Sudoku\server\bin\Debug\server.exe.config
+C:\Users\Win10\Downloads\LTMCB\Sudoku\server\bin\Debug\server.exe
+C:\Users\Win10\Downloads\LTMCB\Sudoku\server\bin\Debug\server.pdb
+C:\Users\Win10\Downloads\LTMCB\Sudoku\server\obj\Debug\server.csprojAssemblyReference.cache
+C:\Users\Win10\Downloads\LTMCB\Sudoku\server\obj\Debug\server.Form1.resources
+C:\Users\Win10\Downloads\LTMCB\Sudoku\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\Win10\Downloads\LTMCB\Sudoku\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\Win10\Downloads\LTMCB\Sudoku\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Downloads\LTMCB\Sudoku\server\obj\Debug\server.exe
+C:\Users\Win10\Downloads\LTMCB\Sudoku\server\obj\Debug\server.pdb
